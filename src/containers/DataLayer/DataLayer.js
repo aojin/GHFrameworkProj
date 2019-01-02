@@ -6,8 +6,6 @@ import Cards from "../../components/Cards/Cards";
 import Footer from "../../components/Navigation/Footer/Footer";
 
 class DataLayer extends Component {
-  // this wrapper will be responsible for all graphQL requests & storage of data for use in child components
-  // child components will be the primary Graph hero section as well as the horizonatal or vertical list of cards.
 
   state = {
     frameworks: {}
