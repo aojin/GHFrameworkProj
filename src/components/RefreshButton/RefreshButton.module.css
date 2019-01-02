@@ -1,0 +1,15 @@
+.RefreshButton {
+  max-height: 24px;
+  margin: 0;
+  padding: 15px;
+  display: flex;
+  flex-flow: column;
+  background-color: #212121;
+  align-items: center;
+  height: 100%;
+}
+
+.RefreshButton img {
+  padding-top: 5px;
+  height: 100%;
+}
